@@ -5,11 +5,11 @@ APP POKEDEX IN REACT NATIVE:
 
 ## Features: This app features all the latest tools and practices in web development!
 
-📄 **HTML
+📄 **HTML**
 
-📄 **CSS
+📄 **CSS**
 
-⚛️ **REACT NATIVE
+⚛️ **REACT NATIVE**
 
 ## Getting started:
 
