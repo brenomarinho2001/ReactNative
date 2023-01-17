@@ -1,4 +1,4 @@
-# REACT/ REACTNATIVE
+# REACT/ REACT NATIVE
 ✨ My React projects ✨
 
 
